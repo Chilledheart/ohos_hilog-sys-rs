@@ -1,0 +1,18 @@
+[package]
+name = "ohos_hilog-sys"
+version = "0.1.0"
+authors = [
+    "The ohos_hilog_sys Developers",
+]
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/Chilledheart/ohos_hilog-sys-rs"
+description = """
+FFI bindings to Open Harmony hilog Library.
+"""
+documentation = "https://docs.rs/ohos_hilog-sys"
+keywords = ["ffi", "ohos", "hilog", "log"]
+categories = ["external-ffi-bindings"]
+
+[lib]
+name = "ohos_hilog_sys"
